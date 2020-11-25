@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "KOREAN",
+    "price": 10.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-07-18"
+  },
+  {
+    "id": 1,
+    "name": "GERMAN",
+    "price": 14.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-17"
+  },
+  {
+    "id": 2,
+    "name": "JAPANESE",
+    "price": 13.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-15"
+  },
+  {
+    "id": 3,
+    "name": "CHINESE",
+    "price": 18.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-11"
+  },
+  {
+    "id": 4,
+    "name": "SPANISH",
+    "price": 11.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-08"
+  },
+  {
+    "id": 5,
+    "name": "ENGLISH",
+    "price": 15.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-06"
+  },
+  {
+    "id": 6,
+    "name": "HINDI",
+    "price": 17.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-05"
+  },
+  {
+    "id": 7,
+    "name": "ARABIC",
+    "price": 19.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-04"
+  },
+  {
+    "id": 8,
+    "name": "PORTUGUESE",
+    "price": 13.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-04"
+  },
+  {
+    "id": 9,
+    "name": "BENGALI",
+    "price": 17.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-02"
+  },
+  {
+    "id": 10,
+    "name": "RUSSIAN",
+    "price": 18.99,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, harum!",
+    "date": "2020-11-01"
+  }
+]
